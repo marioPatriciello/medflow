@@ -19,4 +19,4 @@ COPY . .
 EXPOSE 7860
 
 # Comando per avviare l'app (Esempio: modifica 'app.py' con il nome del tuo file principale)
-CMD ["python", "app.py"]
+CMD ["python", "run.py"]
